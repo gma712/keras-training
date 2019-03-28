@@ -1,2 +1,5 @@
 *.git
 .ipynb_checkpoints
+.DS_Store
+dogs-vs-cats
+cats_and_dogs_small
